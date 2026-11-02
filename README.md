@@ -16,7 +16,7 @@ Keep it under one page. Long lists of requirements put off good candidates.
 
 ## Templates
 
-- [Software developer](software-developer.md)
+- [Software developer]([software-developer.md](https://github.com/praveenmachanuru/job-description-templates/blob/main/sales-executive-fmcg))
 - [Sales executive (FMCG)](sales-executive-fmcg.md)
 - [Talent acquisition executive](talent-acquisition-executive.md)
 
